@@ -4,7 +4,7 @@ Selamat datang di Ezra Portfolio! Website ini adalah portofolio pribadi yang men
 
 ---
 
-## 🚀 Fitur Utama
+### 🚀 Fitur Utama
 
 - **Profil Pribadi**  
     Informasi singkat tentang saya dan keahlian utama.
@@ -17,7 +17,7 @@ Selamat datang di Ezra Portfolio! Website ini adalah portofolio pribadi yang men
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+### 🛠️ Teknologi yang Digunakan
 
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@ Selamat datang di Ezra Portfolio! Website ini adalah portofolio pribadi yang men
 
 ---
 
-## 📦 Instalasi
+### 📦 Instalasi
 
 ```
 git clone https://github.com/username/ezra-portofolio.git
@@ -34,19 +34,19 @@ cd ezra-portofolio
 
 ---
 
-## 📸 Preview
+### 📸 Preview
 
 ![Preview Website](preview.png)
 
 ---
 
-## 🤝 Kontribusi
+### 🤝 Kontribusi
 
 Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk diskusi.
 
 ---
 
-## 📬 Kontak
+### 📬 Kontak
 
 - Email: pro.bimantara@gmail.com
 - LinkedIn: [linkedin.com/in/reyhan-ezra/](https://www.linkedin.com/in/reyhan-ezra/)
