@@ -1,7 +1,6 @@
 # 🎨 Ezra Portfolio
 
-Selamat datang di **Ezra Portfolio**!  
-Website ini adalah portofolio pribadi yang menampilkan karya, pengalaman, dan keahlian saya di bidang teknologi dan desain.
+Selamat datang di Ezra Portfolio! Website ini adalah portofolio pribadi yang menampilkan karya, pengalaman, dan keahlian saya di beberapa bidang teknologi.
 
 ---
 
@@ -20,20 +19,17 @@ Website ini adalah portofolio pribadi yang menampilkan karya, pengalaman, dan ke
 
 ## 🛠️ Teknologi yang Digunakan
 
-- HTML5 & CSS3
-- JavaScript (React.js)
-- Node.js
-- [Tambahkan teknologi lain jika ada]
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
 ## 📦 Instalasi
 
-```bash
+```
 git clone https://github.com/username/ezra-portofolio.git
 cd ezra-portofolio
-npm install
-npm start
 ```
 
 ---
@@ -52,8 +48,8 @@ Kontribusi sangat terbuka! Silakan buat pull request atau buka issue untuk disku
 
 ## 📬 Kontak
 
-- Email: ezra@email.com
-- LinkedIn: [linkedin.com/in/ezra](https://linkedin.com/in/ezra)
+- Email: pro.bimantara@gmail.com
+- LinkedIn: [linkedin.com/in/reyhan-ezra/](https://www.linkedin.com/in/reyhan-ezra/)
 
 ---
 
